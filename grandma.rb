@@ -18,5 +18,6 @@ def speak_to_grandma(phrase)
     
   elsif phrase == 
   
-else puts ""
+else puts "NO, NOT SINCE 1938!"
+end
     

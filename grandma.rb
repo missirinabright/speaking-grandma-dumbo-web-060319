@@ -18,5 +18,5 @@ def speak_to_grandma(phrase)
     
   elsif phrase == 
   
-else 
+else puts ""
     
